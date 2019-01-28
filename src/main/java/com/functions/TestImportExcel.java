@@ -11,7 +11,7 @@ import org.testng.Assert;
 import java.util.HashMap;
 
 /***
- * 测试导入excel
+ * 测试导入excel,base
  */
 public class TestImportExcel {
 
