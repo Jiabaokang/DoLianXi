@@ -4,7 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/utils/Robot.java" line="6" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c5f7ad0-b484-457f-9610-da12d9b79e20" name="Default Changelist" comment="添加testng测试用例xml文件">
+    <list default="true" id="0c5f7ad0-b484-457f-9610-da12d9b79e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Ignore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cpt5/src/main/resources/groupsOnClass.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,24 +28,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cpt5/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Byorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="55">
+              <caret line="50" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
                 <element signature="e#458#459#0" expanded="true" />
                 <element signature="e#520#521#0" expanded="true" />
@@ -60,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#157#158#0" expanded="true" />
@@ -79,67 +77,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Pay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="135">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/functions/TestImportExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lianxi_selenium/ui/LoginChanDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/functions/TestSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1359#1360#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -147,11 +89,124 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/TestsuitDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="262">
+              <caret line="22" column="14" selection-start-line="8" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Ignore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#1387#1388#0" expanded="true" />
+                <element signature="e#1445#1446#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="true" />
+                <element signature="e#1167#1168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cpt5/src/main/resources/groupsOnClass.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -181,12 +236,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/utilsJava/Rex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utils_ava/Rex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utils_java/Rex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utils_java/RexUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/functions/LoginAndLogout.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utils/Driver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/functions/Search.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utils/Cookies.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utils/JS.java" />
@@ -232,6 +281,12 @@
         <option value="$PROJECT_DIR$/Cpt5/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Pay.java" />
         <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/TestsuitDriver.java" />
+        <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Ignore.java" />
+        <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnMethod.java" />
+        <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass3.java" />
+        <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass2.java" />
+        <option value="$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass1.java" />
+        <option value="$PROJECT_DIR$/Cpt5/src/main/resources/groupsOnClass.xml" />
       </list>
     </option>
   </component>
@@ -324,6 +379,17 @@
               <item name="Cpt5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DoLianXi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoLianXi" type="462c0819:PsiDirectoryNode" />
+              <item name="Cpt5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -343,7 +409,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548753652326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548759839049" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -375,11 +441,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml">
-    <configuration name="Byorder" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml">
+    <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="C5_Testng" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.testng.Byorder" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cpt5/src/main/resources/groupsOnClass.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -396,16 +462,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginChanDao" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DoLianXi" />
+    <configuration name="GroupOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="C5_Testng" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lianxi_selenium.ui.*" />
+          <option name="PATTERN" value="com.testng.groups.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lianxi_selenium.ui" />
-      <option name="MAIN_CLASS_NAME" value="com.lianxi_selenium.ui.LoginChanDao" />
+      <option name="PACKAGE_NAME" value="com.testng.groups" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.groups.GroupOnMethod" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ignore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="C5_Testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.Ignore" />
       <properties />
       <listeners />
       <method v="2">
@@ -428,29 +510,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.functions" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DoLianXi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.functions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.functions" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" />
+        <item itemvalue="TestNG.GroupOnMethod" />
+        <item itemvalue="TestNG.Ignore" />
         <item itemvalue="TestNG.D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.TestsuitDriver" />
-        <item itemvalue="TestNG.LoginChanDao" />
-        <item itemvalue="TestNG.Byorder" />
-        <item itemvalue="TestNG.com.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +536,7 @@
       <workItem from="1548048006925" duration="7224000" />
       <workItem from="1548139040700" duration="144321000" />
       <workItem from="1548685039184" duration="204000" />
-      <workItem from="1548685570224" duration="19406000" />
+      <workItem from="1548685570224" duration="24879000" />
     </task>
     <task id="LOCAL-00001" summary="提交的第一个版本,web 项目的UI自动化V1：1）封装了各对象2）封装了方法3)实现了几个测试类">
       <created>1548686148817</created>
@@ -514,43 +580,50 @@
       <option name="project" value="LOCAL" />
       <updated>1548753638070</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加testng测试用例xml文件">
+      <created>1548753702532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548753702532</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_testng_xml - 2019.01.29 at 16h 50m 41s.xml">
-      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GroupOnMethod - 2019.01.29 at 18h 44m 36s.xml">
+      <configuration name="GroupOnMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_testng_xml - 2019.01.29 at 16h 56m 12s.xml">
-      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GroupOnMethod - 2019.01.29 at 18h 45m 58s.xml">
+      <configuration name="GroupOnMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_testng_xml - 2019.01.29 at 17h 01m 13s.xml">
-      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="GroupOnMethod - 2019.01.29 at 18h 48m 12s.xml">
+      <configuration name="GroupOnMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_testng_xml - 2019.01.29 at 17h 03m 55s.xml">
-      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 18h 54m 43s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginChanDao - 2019.01.29 at 17h 07m 04s.xml">
-      <configuration name="LoginChanDao" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 18h 55m 15s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsuitDriver - 2019.01.29 at 17h 08m 47s.xml">
-      <configuration name="TestsuitDriver" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 18h 56m 16s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsuitDriver - 2019.01.29 at 17h 09m 33s.xml">
-      <configuration name="TestsuitDriver" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 19h 01m 42s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsuitDriver - 2019.01.29 at 17h 10m 11s.xml">
-      <configuration name="TestsuitDriver" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 19h 01m 59s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsuitDriver - 2019.01.29 at 17h 11m 18s.xml">
-      <configuration name="TestsuitDriver" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 19h 03m 17s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_testng_xml - 2019.01.29 at 17h 13m 01s.xml">
-      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="D__Sunyi_Interface_learn_DoLianXi_Cpt5_src_main_resources_groupsOnClass_xml - 2019.01.29 at 19h 03m 46s.xml">
+      <configuration name="D:/Sunyi/Interface_learn/DoLianXi/Cpt5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187692000" />
+    <option name="totallyTimeSpent" value="193165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,20 +643,20 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.2039801" side_tool="true" weight="0.25718608" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7960199" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7960199" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32998326" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.4969743" weight="0.55369127" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4977307" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.3245083" side_tool="true" visible="true" weight="0.35067114" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.3245083" side_tool="true" weight="0.35067114" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32663316" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.90166414" weight="0.3338926" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.90166414" visible="true" weight="0.4194631" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.38190955" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.6754917" visible="true" weight="0.35067114" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.6754917" weight="0.35067114" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Theme Preview" order="0" />
@@ -648,67 +721,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/date_change/StringToDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/SuiteRunnerWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/TestNG.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1234" selection-start-line="1234" selection-end-line="1234" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/utilsClass/RexUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test_case/download.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test_case/Elements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="20" column="77" lean-forward="true" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test_case/FileUpload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test_case/SwicthToWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -1015,13 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cpt5/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150">
@@ -1061,15 +1066,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Byorder.java">
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Pay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/TestsuitDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="22" column="14" selection-start-line="8" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Ignore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Byorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="50" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
             <element signature="e#458#459#0" expanded="true" />
             <element signature="e#520#521#0" expanded="true" />
@@ -1089,43 +1161,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/TestsuitDriver.java">
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Pay.java">
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/resources/testng.xml">
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnClass3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="56">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/Search.java">
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/resources/groupsOnClass.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="221">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cpt5/src/main/java/com/testng/groups/GroupOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#1387#1388#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
           </folding>
         </state>
       </provider>
