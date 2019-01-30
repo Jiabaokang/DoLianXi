@@ -11,7 +11,6 @@
     <test name="pay">
         <classes>
             <class name="com.testng.TestsuitDriver"/>
-            <class name="com.testng.Search"/>
             <class name="com.testng.Pay"/>
         </classes>
     </test>

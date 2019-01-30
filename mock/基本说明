@@ -1,0 +1,4 @@
+//启动：项目下，创建目录mock
+//复制下载好的mock jar包，粘贴到此目录下。
+
+java -jar moco-runner-0.11.0-standalone.jar -p 8888 -c json文件
