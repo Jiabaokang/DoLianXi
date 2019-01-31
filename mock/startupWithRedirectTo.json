@@ -1,0 +1,26 @@
+[
+  {
+    "description": "重定向到百度",
+    "request": {
+      "uri": "/getRedirectTo",
+      "method": "get"
+    },
+    "redirectTo": "http://www.baidu.com"
+  },
+  {
+    "description": "重定向到自己的网页",
+    "request": {
+      "uri": "/redirect/topath"
+    },
+    "redirectTo": "/radirect/new"
+  },
+  {
+    "description": "这是被重定向的请求",
+    "request": {
+      "uri": "/radirect/new"
+    },
+    "response": {
+      "text": "重定向我自己的做的网页成功了！"
+    }
+  }
+]

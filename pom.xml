@@ -12,6 +12,7 @@
         <module>Cpt5</module>
         <module>Cpt6_ExtentReport</module>
         <module>Cpt7 mock</module>
+        <module>Cpt8 httpclient</module>
     </modules>
 
     <dependencies>
@@ -63,6 +64,7 @@
             <artifactId>poi-ooxml</artifactId>
             <version>3.14</version>
         </dependency>
+
 
 
     </dependencies>

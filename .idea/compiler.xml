@@ -10,6 +10,7 @@
         <module name="C5_Testng" />
         <module name="Cpt6_ExtentReport" />
         <module name="Cpt7mock" />
+        <module name="Cpt8httpclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

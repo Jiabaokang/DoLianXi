@@ -1,0 +1,27 @@
+[
+  {
+    "description": "这是一个不带参数的get请求",
+    "request": {
+      "uri": "/getdemo",
+      "method": "get"
+    },
+    "response": {
+      "text": "不带参数的get请求完成了"
+    }
+  },
+  {
+    "description": "这是一个带参数的get请求",
+    "request": {
+      "uri": "/getdemo2",
+      "method": "get",
+      "queries": {
+        "name": "zhangsan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "mock的带参数的get请求ok，张三18岁了。"
+    }
+  }
+]
+
