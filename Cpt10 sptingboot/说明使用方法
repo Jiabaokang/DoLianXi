@@ -1,0 +1,35 @@
+非常少的几个配置就可以迅速方便的搭建起来一套web项目或者是构建一个微服务！
+//注解
+@RestController的意思就是controller里面的方法都以json格式输出
+
+
+1、框架引入：
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+        <version>2.1.2.RELEASE</version>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.1.2.RELEASE</version>
+    </dependency>
+</dependencies>
+
+2、使用官方案例：创建SampleController类，并运行启动服务，run日志中可查看到默认启动了8080端口；
+@Controller
+@EnableAutoConfiguration
+public class SampleController {
+    @RequestMapping("/")
+    @ResponseBody
+    String home() {
+        return "hello world";
+    }
+    public static void main(String[] args) {
+        SpringApplication.run(SampleController.class,args);
+    }
+}
+
+3、打开浏览器查看，输入：http://localhost:8080/ 即可 输出 ：hello world
+

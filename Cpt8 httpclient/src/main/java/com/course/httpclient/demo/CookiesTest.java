@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.ResourceBundle;
 
+//运行这个class，需要先启动mock下的startupWithCookies.json文件
 //读取/getCookies的cookie ，给/get/with/cookies 提供入参
 public class CookiesTest {
    private ResourceBundle bundle;

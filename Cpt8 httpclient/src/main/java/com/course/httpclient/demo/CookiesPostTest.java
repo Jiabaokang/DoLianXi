@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 import java.util.ResourceBundle;
 
+//运行这个class，需要先启动mock下的startupWithCookies.json文件
 public class CookiesPostTest {
     private ResourceBundle bundle;
     private String hosturi;
@@ -51,26 +52,29 @@ public class CookiesPostTest {
         //设置headers
         post.setHeader("content-type", "application/json");
         //添加参数
-        JSONObject param = new JSONObject();
-        param.put("name", "huhansan");
-        param.put("age", "18");
+        JSONObject jSONObjectParam = new JSONObject();
+        jSONObjectParam.put("name", "huhansan");
+        jSONObjectParam.put("age", "18");
+
         //将参数放入stringEntity中,再添加到post
-        StringEntity entity = new StringEntity(param.toString(), "utf-8");
-        post.setEntity(entity);
+        StringEntity stringEntity = new StringEntity(jSONObjectParam.toString(), "utf-8");
+        post.setEntity(stringEntity);
+        
         //执行post请求,获取响应实体
         HttpResponse response = client.execute(post);
         //处理结果是否符合预期，查看json内容，断言value值
         String result = EntityUtils.toString(response.getEntity(), "utf-8");
-        System.out.println("result==="+result);
+        System.out.println("result="+result);
         //获取响应码
         int statusCode = response.getStatusLine().getStatusCode();
+        System.out.println("statusCode="+statusCode);
         if (statusCode == 200) {
             //将返回的string内容转化为json对象
             JSONObject resultjson = new JSONObject(result);
             String success = resultjson.getString("huhansan");
             String status = resultjson.getString("status");
             Assert.assertEquals(success, "success");
-            Assert.assertEquals(status, "1");
+            Assert.assertEquals(status, "2");
         }
     }
 

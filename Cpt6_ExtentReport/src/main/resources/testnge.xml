@@ -5,14 +5,14 @@
     <test name="这些是测试模块">
         <classes>
             <class name="com.tesngExtentReport.TestExtentReport">
-                <methods>
+                <!--<methods>-->
 
-                    <include name="test1"/>
-                    <include name="test2"/>
-                    <include name="test3"/>
-                    <include name="logDemo"/>
+                    <!--<include name="test1"/>-->
+                    <!--<include name="test2"/>-->
+                    <!--<include name="test3"/>-->
+                    <!--<include name="logDemo"/>-->
 
-                </methods>
+                <!--</methods>-->
 
             </class>
 
